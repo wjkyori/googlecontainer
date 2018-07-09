@@ -1,0 +1,1 @@
+from gcr.io/google_containers/hyperkube:1.11.0
